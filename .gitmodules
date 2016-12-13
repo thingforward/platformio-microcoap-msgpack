@@ -1,0 +1,6 @@
+[submodule "vendor/microcoap"]
+	path = vendor/microcoap
+	url = https://github.com/1248/microcoap.git
+[submodule "vendor/mpack"]
+	path = vendor/mpack
+	url = https://github.com/ludocode/mpack.git
